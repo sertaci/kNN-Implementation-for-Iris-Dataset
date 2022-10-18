@@ -6,10 +6,8 @@
 <p align="center">
   <a href="https://archive.ics.uci.edu/ml/datasets/iris">Iris Dataset</a>
 </p>
-<br/>
 
 This repository is an improved version of an assignment in the CENG463 course that I took at the university. 
-
 
 In this notebook, there is a process that I implemented kNN-Classifier without using the functions of the sklearn library (I have implemented the fit and predict functions) for the iris dataset. 
 I also defined a variable called test_ratio. This variable ensures that the data reserved for the test is again divided at a certain rate and in randomness. 
